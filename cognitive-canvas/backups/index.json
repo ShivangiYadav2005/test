@@ -1,12 +1,36 @@
 {
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-24T12:40:27.091Z",
+  "updatedAt": "2026-07-24T12:43:25.976Z",
   "backups": [
+    {
+      "name": "cc-backup-2026-07-24_18-13-25.zip",
+      "assetName": "cc-backup-2026-07-24_18-13-25.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-24_18-13-25.zip",
+      "createdAt": "2026-07-24T12:43:25.976Z",
+      "format": "release",
+      "storage": "release",
+      "releaseTag": "cognitive-canvas-backups",
+      "assetId": 488400744,
+      "totalSize": 1038533,
+      "size": 1038533
+    },
+    {
+      "name": "cc-backup-2026-07-24_18-10-55.zip",
+      "assetName": "cc-backup-2026-07-24_18-10-55.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-24_18-10-55.zip",
+      "createdAt": "2026-07-24T12:40:55Z",
+      "format": "release",
+      "storage": "release",
+      "releaseTag": "cognitive-canvas-backups",
+      "assetId": 488398421,
+      "totalSize": 1038533,
+      "size": 1038533
+    },
     {
       "name": "cc-backup-2026-07-24_18-10-26.zip",
       "assetName": "cc-backup-2026-07-24_18-10-26.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-24_18-10-26.zip",
-      "createdAt": "2026-07-24T12:40:27.091Z",
+      "createdAt": "2026-07-24T12:40:28Z",
       "format": "release",
       "storage": "release",
       "releaseTag": "cognitive-canvas-backups",
