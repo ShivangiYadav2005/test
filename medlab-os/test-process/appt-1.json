@@ -1,0 +1,12 @@
+{
+  "git": {
+    "owner": "shivangiyadav2005",
+    "repo": "test",
+    "branch": "main"
+  },
+  "backupKind": "medlab-os-raw-json",
+  "backupVersion": 1,
+  "zipBase64": "ewogICJzY2hlbWFWZXJzaW9uIjogMiwKICAiYXBwb2ludG1lbnRJZCI6IDEsCiAgInBhdGllbnQiOiB7CiAgICAiaWQiOiAxLAogICAgIm5hbWUiOiAic2hpa2hhIiwKICAgICJwaG9uZSI6ICIrOTExMTExMTExMTExIiwKICAgICJwYXRpZW50SWQiOiAiMjYwOTAzLTAwMDEiCiAgfSwKICAiYXBwb2ludG1lbnQiOiB7CiAgICAidGl0bGUiOiAiTGFiIEFwcG9pbnRtZW50IiwKICAgICJzdGFydCI6ICIyMDI2LTA5LTAzVDA1OjMyOjAwLjAwMFoiLAogICAgImVuZCI6ICIyMDI2LTA5LTAzVDA2OjAyOjAwLjAwMFoiLAogICAgIm5vdGVzIjogIiIKICB9LAogICJzZWxlY3RlZFRlc3RzIjogW10sCiAgInNhbXBsZVJlcXVpcmVtZW50cyI6IFtdLAogICJ3b3JrZmxvd1N0YWdlIjogImluLXRyYW5zaXQiLAogICJzdGFnZUhpc3RvcnkiOiBbCiAgICB7CiAgICAgICJzdGFnZSI6ICJpbi10cmFuc2l0IiwKICAgICAgImF0IjogIjIwMjYtMDktMDNUMDU6MDI6MzcuNTgwWiIsCiAgICAgICJieVVzZXJJZCI6IDEsCiAgICAgICJieVVzZXJOYW1lIjogIm5payBqaSIsCiAgICAgICJieVJvbGUiOiAiQWRtaW4iLAogICAgICAibm90ZSI6ICJXYWxrLWluIGxhYiBhcHBvaW50bWVudCBjcmVhdGVkIgogICAgfQogIF0sCiAgInB1c2hlZEF0IjogIjIwMjYtMDktMDNUMDU6MDI6MzcuOTc2WiIsCiAgInB1c2hlZEJ5VXNlcklkIjogMSwKICAicHVzaGVkQnlVc2VyTmFtZSI6ICJuaWsgamkiCn0=",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-09-03T05:02:37.978Z"
+}
