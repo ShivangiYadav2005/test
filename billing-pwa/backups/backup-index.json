@@ -6,9 +6,9 @@
   },
   "backups": [
     {
-      "name": "billing-pwa-backup-Till1-2026-09-09.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-09-09.zip",
-      "createdAt": "2026-09-09T09:13:13.709Z"
+      "name": "billing-pwa-backup-2026-09-22.zip",
+      "filePath": "billing-pwa/backups/data/billing-pwa-backup-2026-09-22.zip",
+      "createdAt": "2026-09-22T06:44:48.994Z"
     },
     {
       "name": "billing-pwa-backup-Till1-2026-09-09.zip",
@@ -16,63 +16,13 @@
       "createdAt": "2026-09-09T09:13:13.709Z"
     },
     {
-      "name": "billing-pwa-backup-Till1-2026-09-08.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-09-08.zip",
-      "createdAt": "2026-09-08T12:30:05.633Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-09-08.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-09-08.zip",
-      "createdAt": "2026-09-08T12:30:05.633Z"
-    },
-    {
-      "name": "billing-pwa-backup-waiter-2026-09-08.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-waiter-2026-09-08.zip",
-      "createdAt": "2026-09-08T07:33:16.008Z"
-    },
-    {
-      "name": "billing-pwa-backup-waiter-2026-09-08.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-waiter-2026-09-08.zip",
-      "createdAt": "2026-09-08T07:33:16.008Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-09-05.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-09-05.zip",
-      "createdAt": "2026-09-05T17:48:17.537Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-09-05.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-09-05.zip",
-      "createdAt": "2026-09-05T17:48:17.537Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-07-30.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-07-30.zip",
-      "createdAt": "2026-07-30T10:11:39.202Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-07-30.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-07-30.zip",
-      "createdAt": "2026-07-30T10:11:39.202Z"
-    },
-    {
-      "name": "billing-pwa-backup-2026-07-29.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-2026-07-29.zip",
-      "createdAt": "2026-07-29T06:27:48.821Z"
-    },
-    {
-      "name": "billing-pwa-backup-2026-07-27.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-2026-07-27.zip",
-      "createdAt": "2026-07-27T09:37:00.774Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-07-27.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-07-27.zip",
-      "createdAt": "2026-07-27T07:09:14.772Z"
+      "name": "billing-pwa-backup-Till1-2026-09-09.zip",
+      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-09-09.zip",
+      "createdAt": "2026-09-09T09:13:13.709Z"
     }
   ],
   "name": "backup-index",
-  "createdAt": "2026-09-09T09:13:21.889Z",
+  "createdAt": "2026-09-22T06:44:52.530Z",
   "_kind": "browser-payload",
-  "_savedAt": "2026-09-09T09:13:21.894Z"
+  "_savedAt": "2026-09-22T06:44:52.533Z"
 }
