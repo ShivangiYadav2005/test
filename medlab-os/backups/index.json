@@ -5,7 +5,7 @@
     "branch": "main"
   },
   "indexKind": "medlab-os-backup-index",
-  "updatedAt": "2026-10-07T10:26:07.197Z",
+  "updatedAt": "2026-10-07T10:41:17.561Z",
   "backups": [
     {
       "name": "MedLab_Backup_2026-09-30.zip",
@@ -25,9 +25,9 @@
     {
       "name": "MedLab_Backup_2026-10-07.zip",
       "path": "medlab-os/backups/data/MedLab_Backup_2026-10-07.json",
-      "createdAt": "2026-10-07T10:26:00.163Z"
+      "createdAt": "2026-10-07T10:41:11.582Z"
     }
   ],
   "_kind": "browser-payload",
-  "_savedAt": "2026-10-07T10:26:07.202Z"
+  "_savedAt": "2026-10-07T10:41:17.567Z"
 }
