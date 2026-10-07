@@ -1,0 +1,12 @@
+{
+  "git": {
+    "owner": "shivangiyadav2005",
+    "repo": "test",
+    "branch": "main"
+  },
+  "backupKind": "medlab-os-raw-json",
+  "backupVersion": 1,
+  "zipBase64": "ewogICJ1cGRhdGVkQXQiOiAiMjAyNi0xMC0wN1QwNTo1MDo1NC41OTZaIiwKICAiZW50cmllcyI6IFsKICAgIHsKICAgICAgImFjdGlvbiI6ICJUQVNLX0FTU0lHTkVEIiwKICAgICAgInRhc2tJZCI6ICJUQVNLLTIwMjYtMTAtMDctMDAxIiwKICAgICAgInBhdGllbnROYW1lIjogIlByaXlhIFBhdGVsIiwKICAgICAgImJ5IjogInNoaXZhbmdpIHlhZGF2IiwKICAgICAgImF0IjogIjIwMjYtMTAtMDdUMDU6NTA6NTAuODQyWiIsCiAgICAgICJkZXRhaWxzIjogIlRlc3RzOiBIYWVtb2dsb2JpbiIKICAgIH0KICBdCn0=",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-10-07T05:50:54.600Z"
+}
